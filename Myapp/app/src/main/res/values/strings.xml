@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">College Events</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+
+    <string-array name="headers">
+        <item>Technical</item>
+        <item>Non-Technical</item>
+        <item>Academic</item>
+    </string-array>
+
+    <string-array name="technical_child">
+        <item>Techno Buzz</item>
+        <item>C Mania</item>
+        <item>Robo Race</item>
+        <item>Codec</item>
+
+    </string-array><string-array name="non_technical_child">
+        <item>Lan Gaming</item>
+        <item>Football</item>
+        <item>Basket Ball</item>
+        <item>Cricket</item>
+        <item>D Virus</item>
+        <item>Viral Voice</item>
+
+</string-array><string-array name="academic_child">
+        <item>Conference NCETCE</item>
+        <item>Workshop on Infosys Campus Connect</item>
+        <item>Workshop On IBM Bluemix</item>
+    </string-array>
+    <string name="Techno_buzz">
+        This is an objective questions game which \n
+        will check your technical skills. \n
+        Venue: Admin block, room no 105.\n
+        Entry fees: 100rs\n
+        Time: 9:00am\n
+        Prize: 1000rs.
+    </string>
+
+    <string name="C_mania">
+      In this game you have to debug the C code to \n
+        get the desired output.\n
+        Venue: Admin block, room no 105.\n
+        Entry fees: 100rs\n
+        Time: 10:00am\n
+        Prize: 2000rs.
+    </string>
+
+    <string name="Robo_race">
+       This is a robo race. In this game you need\n
+        to bring your own roboat to particapate.\n
+        Venue: skit ground.\n
+        Entry fees: 100rs\n
+        Time: 10:00am\n
+        Prize: 2000rs.
+    </string>
+
+    <string name="Codec">
+        This is a competition in which you have to code \n
+        on the given question in any programing language\n
+        you want.
+        Venue: IAI lab\n
+        Entry fees: 100rs\n
+        Time: 10:00am\n
+        Prize: 2000rs.
+
+    </string>
+
+    <string name="Lan_gaming">
+        This is competition in which you participate\n
+        in diffrent games of you choice.\n
+        Games: Nfs most wanted, counter strike.
+        Venue: IAI lab\n
+        Entry fees: 100rs\n
+        Time: 2:00pm\n
+        Prize: 2000rs.
+
+    </string>
+
+    <string name="Football">
+        Register yourself in the most exciting \n
+        game of the college.\n
+        Venue: SKIT ground\n
+        Entry fees: 100rs\n
+        Time: 12:00pm\n
+        Prize: 2000rs.
+
+    </string>
+
+    <string name="Cricket">
+        Bring a team of 6 members to participate\n
+        in cricket mania.\n
+        Venue: SKIT ground\n
+        Entry fees: 500rs\n
+        Time: 12:00pm\n
+        Prize: 2000rs.
+
+    </string>
+
+    <string name="Basketball">
+        Bring a team of 6 members to participate\n
+        in basketball mania.\n
+        Venue: SKIT ground\n
+        Entry fees: 500rs\n
+        Time: 12:00pm\n
+        Prize: 2000rs.
+
+    </string>
+
+    <string name="D_virus">
+          Compete to show your dancing skills\n
+        and participate in the dancing compitition of the year.\n
+        Venue: SKIT Stage\n
+        Entry fees: 500rs\n
+        Time: 12:00pm\n
+        Prize: 2000rs.
+
+    </string>
+
+    <string name="Viral_voice">
+        Show the magic of your voice by \n
+        participating in the singing compitition of the year.\n
+        Venue: SKIT stage\n
+        Entry fees: 500rs\n
+        Time: 3:00pm\n
+        Prize: 2000rs.
+
+    </string>
+
+    <string name="NCETCE">
+        This is a national conference on emerging\n
+        tecnhnology and communication engineering.\n
+        Venue: Mechanical Seminal Hall\n
+        Time: 12:00pm\n
+
+
+    </string>
+
+    <string name="info">
+        Infosys camous connect works on blah blah blah\n
+        Venue: J.C. Bose Auditorium.\n
+        Time: 12:00pm\n
+
+
+    </string>
+
+    <string name="IBM">
+        IBM Bluemix provide detail information on \n
+        could computing and its emerging effects on\n
+        global technology.\n
+        Venue: IAI lab\n
+        Time: 12:00pm\n
+
+    </string>
+
+<string-array name="College_names">
+    <item >SKIT</item>
+    <item>JECRC</item>
+    <item>GIT</item>
+    <item>JNIT</item>
+    <item>MNIT</item>
+    <item>JNU</item>
+    <item>APEX</item>
+    <item>SUBODH</item>
+    <item>PRATAP UNIVERSITY</item>
+</string-array>
+
+</resources>
